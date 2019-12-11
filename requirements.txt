@@ -1,0 +1,11 @@
+pandas
+matplotlib
+sns
+scikit-learn
+numpy
+spacy
+plotly
+wordcloud
+geopy
+folium
+tqdm
